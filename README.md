@@ -60,9 +60,7 @@ You will find the project src files in [SourceFile](Login)
 ## Authors
 1. [Eslam Hawas](https://github.com/eslamhawas)
 2. [Mostafa Mohdy](https://github.com/momohdy)
-3. [Mariem Faried](https://github.com/Mariemfaried35)
-4. [Mariem Walid](https://github.com/Mariemwalid)
-5. [Marwan Metwally](https://github.com/MarwanMet123)
+3. [Marwan Metwally](https://github.com/MarwanMet123)
 
 ## Recourses
 
